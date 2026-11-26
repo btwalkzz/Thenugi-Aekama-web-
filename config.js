@@ -1,0 +1,1 @@
+window.APEKAMA_CONFIG={githubUrl:'https://github.com/',email:'info@apekama.example'};
