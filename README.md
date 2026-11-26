@@ -1,4 +1,4 @@
-# Apékama — Static GitHub-Ready Website
+# Apékama - Static GitHub-Ready Website
 
 Rebuilt from the supplied project as a frontend-only site.
 
